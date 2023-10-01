@@ -1,0 +1,17 @@
+query Company{
+    company {
+        ceo
+        coo
+        cto
+        employees
+        founded
+        founder
+        headquarters {
+            state
+        }
+        launch_sites
+        name
+        summary
+        valuation
+    }
+}

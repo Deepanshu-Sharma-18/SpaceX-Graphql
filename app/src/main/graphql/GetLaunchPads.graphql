@@ -1,0 +1,9 @@
+query LaunchPads{
+    launchpads {
+        id
+        name
+        status
+        wikipedia
+        details
+    }
+}

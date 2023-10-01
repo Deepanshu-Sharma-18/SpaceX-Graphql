@@ -1,0 +1,11 @@
+query Rockets{
+    rockets {
+        company
+        cost_per_launch
+        country
+        type
+        name
+        id
+        success_rate_pct
+    }
+}
